@@ -1,5 +1,5 @@
 # NLU intent classification slot filling 
-This reporitory contains the code for the final project of master course Natural Launguage Understanding. 
+This repository is a individual project for the "Natural Language Understanding" course of the Master in Artificial Intelligent Systems at the University of Trento, a.y. 2022-2023.
 
 In this project I implemented 2 models (and a baseline model) to perform intent classification and slot filling in a multitask learning setting.
 
